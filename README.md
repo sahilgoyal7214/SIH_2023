@@ -70,8 +70,8 @@ These were generated based on the terrain and height maps using unsupervised clu
 (193, 190, 175): Tundra
 Maps were then median filtered to remove noise and smooth out the features into larger blobs. Each segmentation map was created with some randomized parameters to create more variety across the dataset and ensure that image sets which happened to overlap would not have exactly the same segmentation map
 
-1. https://github.com/sahilgoyal7214
-   https://github.com/vaibhav7766
-   https://github.com/Jayaditya177
-   https://github.com/suyashtambe
-   https://github.com/AIMaster17
+1. [SAHIL GOYAL](https://github.com/sahilgoyal7214)
+2. [Vaibhav Sharma](https://github.com/vaibhav7766)
+3. [Jayaditya Shukla](https://github.com/Jayaditya177)
+4. [Suyash Tambe](https://github.com/suyashtambe)
+5. [Tejas Tambe](https://github.com/AIMaster17)
