@@ -46,7 +46,7 @@ To set up the project on your machine, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/terrain-recognition/terrain-recognition.git
+   git clone https://github.com/sahilgoyal7214/SIH_2023.git
    cd terrain-recognition
 
 ## Dataset Overview
